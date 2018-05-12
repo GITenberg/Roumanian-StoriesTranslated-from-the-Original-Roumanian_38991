@@ -83,6 +83,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38991#Roumanian-StoriesTranslated-from-the-Original-Roumanian
 gutenberg_issued: '2012-02-26'
 gutenberg_type: Text
 identifiers:
