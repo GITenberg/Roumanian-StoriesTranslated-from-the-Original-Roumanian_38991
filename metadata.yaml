@@ -1,0 +1,107 @@
+_repo: Roumanian-StoriesTranslated-from-the-Original-Roumanian_38991
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Brătescu-Voinești, I. Al. (Ioan Al.)
+    aliases:
+    - Bratescu-Voinesti, Ioan Alexandru
+    - Brătescu-Voinești, Ioan Alexandru
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '39777'
+    url: http://www.gutenberg.org/2009/agents/39777
+    wikipedia: http://ro.wikipedia.org/wiki/Ioan_Alexandru_Br%C4%83tescu-Voine%C8%99ti
+  - agent_name: Negruzzi, Leon C.
+    birthdate: 1840
+    deathdate: 1890
+    gutenberg_agent_id: '39775'
+    url: http://www.gutenberg.org/2009/agents/39775
+    wikipedia: http://ro.wikipedia.org/wiki/Leon_Negruzzi
+  - agent_name: Creangă, Ion
+    aliases:
+    - Crenga, I.
+    - Creanga, Ion
+    - Créngă, I.
+    birthdate: 1839
+    deathdate: 1889
+    gutenberg_agent_id: '39774'
+    url: http://www.gutenberg.org/2009/agents/39774
+    wikipedia: http://en.wikipedia.org/wiki/Ion_Creang%C4%83
+  - agent_name: Caragiale, I. L. (Ion Luca)
+    alias: Caragiale, Ion Luca
+    birthdate: 1852
+    deathdate: 1912
+    gutenberg_agent_id: '39773'
+    url: http://www.gutenberg.org/2009/agents/39773
+    wikipedia: http://en.wikipedia.org/wiki/Ion_Luca_Caragiale
+  - agent_name: Sadoveanu, Mihail
+    alias: Sadovianu, Mikhail
+    birthdate: 1880
+    deathdate: 1961
+    gutenberg_agent_id: '39772'
+    url: http://www.gutenberg.org/2009/agents/39772
+    wikipedia: http://en.wikipedia.org/wiki/Mihail_Sadoveanu
+  - agent_name: Delavrancea, Barbu
+    aliases:
+    - Delavrancea, Barbu Stefanescu
+    - Delavrancea, Barbu Ștefănescu
+    - Delavrancha, Barbu
+    - Vrancea, Barbu de la
+    - La Vrancea, Barbu de
+    birthdate: 1858
+    deathdate: 1918
+    gutenberg_agent_id: '39780'
+    url: http://www.gutenberg.org/2009/agents/39780
+    wikipedia: http://ro.wikipedia.org/wiki/Barbu_Delavrancea
+  - agent_name: Beza, Marcu
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '39776'
+    url: http://www.gutenberg.org/2009/agents/39776
+    wikipedia: http://ro.wikipedia.org/wiki/Marcu_Beza
+  - agent_name: Slavici, Ioan
+    alias: Slavich, Ioan
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '39778'
+    url: http://www.gutenberg.org/2009/agents/39778
+    wikipedia: http://en.wikipedia.org/wiki/Ioan_Slavici
+  - agent_name: Popovici-Bănățeanu, Ion
+    aliases:
+    - Popovici-Bănățeanul, Ion
+    - Popovici-Banateanul, Ion
+    birthdate: 1869
+    deathdate: 1893
+    gutenberg_agent_id: '39779'
+    url: http://www.gutenberg.org/2009/agents/39779
+    wikipedia: http://ro.wikipedia.org/wiki/Ion_Popovici-B%C4%83n%C4%83%C8%9Beanu
+  translator:
+    agent_name: Byng, Lucy
+    gutenberg_agent_id: '39759'
+    url: http://www.gutenberg.org/2009/agents/39759
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38991'
+  lccn: '21012857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Romanian -- Translations into English'
+- !lcsh 'Romania -- Social life and customs -- Fiction'
+- !lcc 'PC'
+tableOfContents: The fairy of the lake / M. Sadoveanu -- The easter torch / I. L.
+  Caragiale -- At Manjoala's inn / I. L. Caragiale -- Alexandru Lapushneanu, 1564-1569
+  / C. Negruzzi -- Zidra / M. Beza -- Gardana / M. Beza -- The dead pool / M. Beza
+  -- Old Nichifor, the impostor / I. Creanga -- Cozma Racoare / M. Sadoveanu -- The
+  wanderers / M. Sadoveanu -- The fledgeling / I. Al. Bratescu-Voineshti -- Popa Tanda
+  / I. Slavici -- Out in the world / Ion Popovici-Banatzeanu -- The bird of ill omen
+  / I. Al. Bratescu-Voineshti -- Irinel / B. Delavrancea.
+title: Roumanian Stories, Translated from the Original Roumanian
+url: http://www.gutenberg.org/ebooks/38991
